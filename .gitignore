@@ -1,0 +1,5 @@
+*.*
+!.gitignore
+!Library.SchLib
+!Library.PcbLib
+!README.md
