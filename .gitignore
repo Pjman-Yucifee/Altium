@@ -1,6 +1,6 @@
 *.*
 !.gitignore
+!Library.LibPkg
 !Library.PcbLib
-!Library.PrjPcb
 !Library.SchLib
 !README.md
